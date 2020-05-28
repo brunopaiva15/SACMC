@@ -1,6 +1,6 @@
 # SACMC
 
-SACMC is an open-source Semi-Annual Channel to Monthly Channel switcher for Office 365.
+SACMC is an Open source Semi-Annual Channel to Monthly Channel switcher for Office 365.
 
 ## ✉ Import the project
 
