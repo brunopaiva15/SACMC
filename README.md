@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/brunopaiva15/sacmc/badge)](https://www.codefactor.io/repository/github/brunopaiva15/sacmc)
+
 # SACMC
 
 SACMC is an Open source Semi-Annual Channel to Monthly Channel switcher for Office 365.
